@@ -1,0 +1,2 @@
+# common
+ideas, resources, etc.
